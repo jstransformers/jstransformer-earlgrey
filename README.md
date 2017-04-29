@@ -1,5 +1,7 @@
 # jstransformer-earlgrey
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-earlgrey.svg)](https://greenkeeper.io/)
+
 [Earl Grey](http://breuleux.github.io/earl-grey/) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-earlgrey/master.svg)](https://travis-ci.org/jstransformers/jstransformer-earlgrey)
