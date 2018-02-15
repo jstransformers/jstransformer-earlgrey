@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "earlgrey": "0.1.0"
+    "earlgrey": "0.1.2"
   },
   "name": "jstransformer-earlgrey",
   "version": "0.2.0",
